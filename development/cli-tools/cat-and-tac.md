@@ -125,3 +125,4 @@ cherry banana apple $
 
 The separator can be treated as a regular expression if the `-r` option is also provided. Here is an example:
 
+Source: [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/cat-tac.html)

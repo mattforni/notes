@@ -57,3 +57,5 @@ The `-c` option works much like the `-n` option, but on the byte granularity. It
 
 ## Range Selection
 A range of lines can be selected by using `head` and `tail` in conjunction. These two commands can be strung together easily using the pipe (`|`) command.
+
+Source: [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/head-tail.html)

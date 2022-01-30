@@ -50,3 +50,5 @@ ns2.google.com.
 
 #### Configuration File
 The default output of the `dig` can be changed by specifying a `.digrc` file in the home directory. The defaults specified in the `.digrc` can then be overridden by adding the `+all` flag to any `dig` query.`
+
+Source: [Julia Evans - How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
