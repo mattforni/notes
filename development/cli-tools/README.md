@@ -3,3 +3,4 @@
 - [`head` and `tail`](./head-and-tail.md)
 - [`dig`](./dig.md)
 - [`tr`](./tr.md)
+- [`pr`](./pr.md)
