@@ -4,4 +4,5 @@
 - [`dig`](./dig.md)
 - [`pr`](./pr.md)
 - [`seq`](./seq.md)
+- [`shuf`](./shuf.md)
 - [`tr`](./tr.md)

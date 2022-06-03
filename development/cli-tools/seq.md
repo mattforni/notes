@@ -1,5 +1,5 @@
 # `seq`
-[`seq`](https://www.gnu.org/software/coreutils/manual/html_node/seq-invocation.html#seq-invocation) is a command-line tool that produces sequences of integers and floating point numbers in bot ascending and descending order. Three numbers are used to generate the sequence: `start`, `step`, and `stop`.
+[`seq`](https://www.gnu.org/software/coreutils/manual/html_node/seq-invocation.html) is a command-line tool that produces sequences of integers and floating point numbers in bot ascending and descending order. Three numbers are used to generate the sequence: `start`, `step`, and `stop`.
 
 ## Arguments
 
