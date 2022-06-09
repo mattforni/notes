@@ -2,6 +2,7 @@
 - [`cat` and `tac`](./cat-and-tac.md)
 - [`cut`](./cut.md)
 - [`dig`](./dig.md)
+- [`fold` and `fmt`](./fold-and-fmt.md)
 - [`head` and `tail`](./head-and-tail.md)
 - [`paste`](./paste.md)
 - [`pr`](./pr.md)
