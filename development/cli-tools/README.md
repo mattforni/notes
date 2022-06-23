@@ -7,5 +7,6 @@
 - [`paste`](./paste.md)
 - [`pr`](./pr.md)
 - [`seq`](./seq.md)
+- [`sort`](./sort.md)
 - [`shuf`](./shuf.md)
 - [`tr`](./tr.md)
