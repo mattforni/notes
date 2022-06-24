@@ -10,3 +10,4 @@
 - [`sort`](./sort.md)
 - [`shuf`](./shuf.md)
 - [`tr`](./tr.md)
+- [`uniq`](./uniq.md)
