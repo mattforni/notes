@@ -68,3 +68,17 @@ One example is the elevation of mind-altering drugs to sacred categories, whereb
 
 ### Conclusion
 Ultimately, binding ourselves is a way to reassert our freedom. The act of imposing governance upon ourselves in an expression of freedom.
+
+## Chapter 6: A Broken Balance?
+In some extreme circumstances the brain can lose the plasticity necessary to balance the pleasure-pain scale and restore homeostasis, event after long periods of abstinence. In these cases the medical field has been advised that they should provide patients with the missing chemical so that they may function normally. This message is largely promoted by the pharmaceutical industry, but neglects the fact that **any** drug that stimulates the pleasure side of the balance has the **potential to be addictive.**
+
+### Treating Symptoms
+In many instances prolonged exposure to drugs specifically prescribed to alleviate particular symptoms result in worsening of the very ailments they are meant to treat. Benzodiazepines and other sedative-hypnotics can actually worsen anxiety and insomnia over time. Taking opioids daily for more than a month increases risk of addiction and increased pain, a process known as *opioid-induced hyperalgesia.* New evidence also shows a correlation between prolonged ADHD exposure and "deterioration in academic and social-emotional functioning." Even antidepressants are now thought to lead to "tolerance and dependence" with the possibility of deepening depression through a process known as *tardive dysphoria.* 
+
+Many of these drugs meant to make us feel "better than well" also come with an inherent side effect, the dampening of the full range of emotions. Some will opt out of these drug therapies, deciding it is better to feel "a wider emotional amplitude" as part of the human experience.
+
+### Prescription Inequity
+There is also a stark imbalance in terms of who is being prescribed psychotropic medications, with the poor, unemployed, and disenfranchised much more readily receiving opioid prescription. Research shows that "Americans on Medicaid are prescribed opioids at 2x the rate of non-Medicaid patients" with "three to six times" the mortality rate.
+
+### Conclusion
+This is not to say that these medications cannot be used effectively. It is merely to point out our willingness as a society to turn to medication over the alternative -- **embracing pain**.
