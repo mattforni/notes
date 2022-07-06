@@ -64,7 +64,9 @@ Use the form `piacciono` (3rd pers. pl.) when talking about several people or th
 ## Vocabulario
 ```
 accogliente - welcoming
+beh - well
 buie - dark
+carino - nice
 collegato - connected
 davvero - very
 l'affito - the rent
@@ -76,5 +78,6 @@ il bagno - the bathroom
 il bilocale - the two-room apartment
 peccato - shame
 piano terra - ground-floor
+prendere in affito - to rent
 umido - humid, damp
 ```
