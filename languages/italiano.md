@@ -90,6 +90,33 @@ A me piace quest'appartamento, a lui no.
 Anche a te piacciono le stanze luminose?
 ```
 
+## Direct object pronouns
+Except for the 3rd person singular and plural, direct object pronouns correspond to the reflexive pronouns `mi`, `ti`, `ci`, `vi`, just like the indirect object pronouns.
+
+When referring back to a masculine noun, the direct object pronoun is `lo`, while feminine nouns are referred to with `la`.
+
+```
+Lo specchio. Lo mettiamo nel soggiorno.
+La scarpiera la mettiamo nell'ingresso.
+```
+
+Plural masculine nouns use the form `li`, while feminine plural nouns use the form `le`.
+
+```
+I quadri li metto nella camera da letto.
+Le sedie le metto nella cucina.
+```
+
+| Object    | Pronoun   |
+|-----------|-----------|
+| io        | mi        |
+| tu        | ti        |
+| lui       | lo        |
+| lei, Lei  | la, La    |
+| noi       | ci        |
+| voi       | vi        |
+| loro      | li, le    |
+
 ## Piacere
 
 `Piacere` (to like, to please) can be used to express what you like or enjoy doing. The form `piace` (3rd pers. sg.) is used when referring to a person or a thing that you like.
@@ -107,16 +134,20 @@ davvero - very
 il divano - the sofa
 l'affito - the rent
 l'annuncio - the advertisement
+l'armadio - the wardrobe
 l'ingresso - the entry, the doorway
+la scrivania - the desk
 il soggiorno - the living room
 la camera da letto - the bedroom
 il bagno - the bathroom
 il bilocale - the two-room apartment
+il letto - the bed
 peccato - shame
 piano terra - ground-floor
 la poltrona - the armchair
 prendere in affito - to rent
 il tavolo - the table
+il tappeto - the carpet
 lo scaffale - the shelf
 umido - humid, damp
 ```
