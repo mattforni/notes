@@ -9,5 +9,8 @@ A public repository containing my notes from various different sources.
 * [CLI Tools](./development/cli-tools/README.md)
 * [React](./development/react/README.md)
 
+## Languages
+* [Italian](./languages/italiano.md)
+
 ## Photography
 * [ISO](./photography/iso.md)
