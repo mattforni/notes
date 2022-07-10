@@ -123,6 +123,27 @@ Le sedie le metto nella cucina.
 
 Use the form `piacciono` (3rd pers. pl.) when talking about several people or things that you like.
 
+## `in` + Definite Articles
+The preposition `in`, just like `a` and `di`, merges with the definite article, becoming `ne` and joined with an `l`, which is doubled between vowels or before an apostrophe. If the definite article is `il`, `nel` is used.
+
+```
+Quali piante avvete nel vostro soggiorno?
+Mettiamo dei tappeti nella stanze?
+Nella cucina di Barbara non c'é spazio.
+```
+
+| Article       | Conunction        |
+|---------------|-------------------|
+| il            | nel               |
+| lo            | nello             |
+| la            | nella             |
+| l'            | nell'             |
+| i             | nei               |
+| gli           | negli             |
+| le            | nelle             |
+
+
+
 ## Vocabulario
 ```
 accogliente - welcoming
@@ -135,6 +156,9 @@ il divano - the sofa
 l'affito - the rent
 l'annuncio - the advertisement
 l'armadio - the wardrobe
+il balcone - the balcony
+il corridoio - the corridor
+la cucina - the kitchen
 l'ingresso - the entry, the doorway
 la scrivania - the desk
 il soggiorno - the living room
@@ -143,6 +167,7 @@ il bagno - the bathroom
 il bilocale - the two-room apartment
 il letto - the bed
 peccato - shame
+la pianta - the plant
 piano terra - ground-floor
 la poltrona - the armchair
 prendere in affito - to rent
