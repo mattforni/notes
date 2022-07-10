@@ -20,5 +20,5 @@ A public repository containing my notes from various different sources.
 * [Italian](./languages/italiano.md)
 
 ## Photography
-* [ISO](./photography/iso.md)# Courses
+* [ISO](./photography/iso.md)
 
