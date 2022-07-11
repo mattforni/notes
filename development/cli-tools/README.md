@@ -4,6 +4,7 @@
 - [`dig`](./dig.md)
 - [`fold` and `fmt`](./fold-and-fmt.md)
 - [`head` and `tail`](./head-and-tail.md)
+- [`join`](./join.md)
 - [`paste`](./paste.md)
 - [`pr`](./pr.md)
 - [`seq`](./seq.md)
