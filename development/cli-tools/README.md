@@ -1,5 +1,6 @@
 # CLI Tools
 - [`cat` and `tac`](./cat-and-tac.md)
+- [`comm`](./comm.md)
 - [`cut`](./cut.md)
 - [`dig`](./dig.md)
 - [`fold` and `fmt`](./fold-and-fmt.md)
