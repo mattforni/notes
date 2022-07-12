@@ -1,4 +1,4 @@
-# Italiano
+# Course 2
 ## The Demonstrative Determiner or Pronoun
 ### `Questo`
 `Questo` (this) always accompanies a noun and is modified to agree with the noun in both number and gender. When preceding a singular noun that starts with a vowel, `questo` and `questa` can be apostrophized to preserve the flow of the sentence.
@@ -175,4 +175,40 @@ il tavolo - the table
 il tappeto - the carpet
 lo scaffale - the shelf
 umido - humid, damp
+```
+
+# Course 3
+## Adverbs
+Unlike adjectives, which provide additional information about a noun, adverbs usually modify an action, adjective, or adverb.
+
+```
+Guilia nuota velocemente.
+Sei particolarmente sportiva.
+Lui sa sciare veramente bene.
+```
+
+To form adverbs, take the feminine form of the adjective (which ends in `-a` or `-e`) and add the ending `-mente`.
+
+```
+Che sport fai essatamente?
+Luisa corre molto velocemente.
+```
+
+For adjectives ending in `-le` (such as `normale`) and `-re` (such as `particolare`), the `-e` is omitted before adding the ending `-mente`.
+
+```
+Normalmente faccio sport tutti i giorni.
+Sono una persona particolarmente sportiva.
+```
+
+## Vocabulario
+```
+andare a cavallo - to go horse riding
+collegi - colleagues
+fare canottaggio - to row
+giocare al calcio - to play soccer
+imparare - to learn
+sciare - to ski
+regolarmente - regularly
+velocemente - quickly, fast
 ```
