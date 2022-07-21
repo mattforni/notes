@@ -201,14 +201,46 @@ Normalmente faccio sport tutti i giorni.
 Sono una persona particolarmente sportiva.
 ```
 
+## Sapere (to be able to, to know)
+`Sapere` is used to express ability.
+
+| Subject     | Conjugation |
+|-------------|-------------|
+| io          | so          |
+| tu          | sai         |
+| lui/lei/Lei | sa          |
+| noi         | sappiamo    |
+| voi         | sapete      |
+| loro        | sanno       |
+
+## Potere (can, to be allowed/possible)
+`Potere` is used to say that something is or is not allowed or possible. `Non potere` can also be used to forbid something.
+
+| Subject     | Conjugation |
+|-------------|-------------|
+| io          | posso       |
+| tu          | puoi        |
+| lui/lei/Lei | puó         |
+| noi         | possiamo    |
+| voi         | potete      |
+| loro        | possono     |
+
 ## Vocabulario
 ```
 andare a cavallo - to go horse riding
+ballare - to dance
 collegi - colleagues
 fare canottaggio - to row
+fare arrampicata - to climb
 giocare al calcio - to play soccer
+giocare a pallavolo - to play volleyball
+giocare a scacchi - to play chess
 imparare - to learn
-sciare - to ski
+nuotare - to swim
+pattinare - to skate
+purtroppo - unfortunately
 regolarmente - regularly
+sciare - to ski
+tonifica i muscoli - tones the muscles
 velocemente - quickly, fast
 ```
