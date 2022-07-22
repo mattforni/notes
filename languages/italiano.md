@@ -1,4 +1,4 @@
-# Italiano
+# Course 2
 ## The Demonstrative Determiner or Pronoun
 ### `Questo`
 `Questo` (this) always accompanies a noun and is modified to agree with the noun in both number and gender. When preceding a singular noun that starts with a vowel, `questo` and `questa` can be apostrophized to preserve the flow of the sentence.
@@ -175,4 +175,110 @@ il tavolo - the table
 il tappeto - the carpet
 lo scaffale - the shelf
 umido - humid, damp
+```
+
+# Course 3
+## Adverbs
+Unlike adjectives, which provide additional information about a noun, adverbs usually modify an action, adjective, or adverb.
+
+```
+Guilia nuota velocemente.
+Sei particolarmente sportiva.
+Lui sa sciare veramente bene.
+```
+
+To form adverbs, take the feminine form of the adjective (which ends in `-a` or `-e`) and add the ending `-mente`.
+
+```
+Che sport fai essatamente?
+Luisa corre molto velocemente.
+```
+
+For adjectives ending in `-le` (such as `normale`) and `-re` (such as `particolare`), the `-e` is omitted before adding the ending `-mente`.
+
+```
+Normalmente faccio sport tutti i giorni.
+Sono una persona particolarmente sportiva.
+```
+
+## Sapere (to be able to, to know)
+`Sapere` is used to express ability.
+
+| Subject     | Conjugation |
+|-------------|-------------|
+| io          | so          |
+| tu          | sai         |
+| lui/lei/Lei | sa          |
+| noi         | sappiamo    |
+| voi         | sapete      |
+| loro        | sanno       |
+
+## Potere (can, to be allowed/possible)
+`Potere` is used to say that something is or is not allowed or possible. `Non potere` can also be used to forbid something.
+
+| Subject     | Conjugation |
+|-------------|-------------|
+| io          | posso       |
+| tu          | puoi        |
+| lui/lei/Lei | puó         |
+| noi         | possiamo    |
+| voi         | potete      |
+| loro        | possono     |
+
+## Vocabulario
+```
+andare a cavallo - to go horse riding
+ballare - to dance
+collegi - colleagues
+fare canottaggio - to row
+fare arrampicata - to climb
+giocare al calcio - to play soccer
+giocare a pallavolo - to play volleyball
+giocare a scacchi - to play chess
+imparare - to learn
+nuotare - to swim
+pattinare - to skate
+purtroppo - unfortunately
+regolarmente - regularly
+sciare - to ski
+tonifica i muscoli - tones the muscles
+velocemente - quickly, fast
+```
+
+# Course 4
+## Adverbs of Quantity
+The adverbs `molto`, `poco`, `troppo`, and `altrettanto` describe a quantity in reference to a verb, adjective or another adverb. When they modify a verb they are usually placed after it, whereas they come before when modifying an adjective or another adverb.
+
+```
+Luana mangia poco a colazione.
+
+I ravioli mi piacciono molto, ma i tortellini sono altrettanto buoni in questo ristorante.
+
+Mangiare troppo velocemente non fa bene.
+```
+
+`Molto`, `poco`, `troppo`, and `altrettanto` can also be used as adjectives, in which case they are placed before the noun they modify and the ending is changed to match the gender and number of the noun.
+
+```
+Stasera preferisco non bere toppo vino.
+
+La mattina mangia molta fruta.
+
+Normalmente mangio pochi carboidrati.
+
+Mangio molte fibre e altrettante vitamine.
+```
+
+**Note** that when an adjective, like `poco` ends in `-co` or `-ca` and `h` is added before the plural ending of `-i` or `-e`.
+
+```
+E.g. `poco` -> `pochi`
+```
+
+## Vocabulario
+```
+altrettanto - just as (much)
+molto - very (much), a lot
+poco - (a) little, not much
+troppo - too (much)
 ```
