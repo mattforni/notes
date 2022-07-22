@@ -244,3 +244,41 @@ sciare - to ski
 tonifica i muscoli - tones the muscles
 velocemente - quickly, fast
 ```
+
+# Course 4
+## Adverbs of Quantity
+The adverbs `molto`, `poco`, `troppo`, and `altrettanto` describe a quantity in reference to a verb, adjective or another adverb. When they modify a verb they are usually placed after it, whereas they come before when modifying an adjective or another adverb.
+
+```
+Luana mangia poco a colazione.
+
+I ravioli mi piacciono molto, ma i tortellini sono altrettanto buoni in questo ristorante.
+
+Mangiare troppo velocemente non fa bene.
+```
+
+`Molto`, `poco`, `troppo`, and `altrettanto` can also be used as adjectives, in which case they are placed before the noun they modify and the ending is changed to match the gender and number of the noun.
+
+```
+Stasera preferisco non bere toppo vino.
+
+La mattina mangia molta fruta.
+
+Normalmente mangio pochi carboidrati.
+
+Mangio molte fibre e altrettante vitamine.
+```
+
+**Note** that when an adjective, like `poco` ends in `-co` or `-ca` and `h` is added before the plural ending of `-i` or `-e`.
+
+```
+E.g. `poco` -> `pochi`
+```
+
+## Vocabulario
+```
+altrettanto - just as (much)
+molto - very (much), a lot
+poco - (a) little, not much
+troppo - too (much)
+```
