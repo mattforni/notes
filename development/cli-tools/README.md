@@ -12,8 +12,9 @@
 | [`paste`](./paste.md) | Merge multiple inputs column-wise.                                 |
 | [`pr`](./pr.md) | Paginate or columnate inputs for printing.                         |
 | [`seq`](./seq.md) | Generate a sequence of numbers.                                    |
-| [`sort`](./sort.md) | Sort inputs lexicographically or numerically.                      |
 | [`shuf`](./shuf.md) | Randomize input streams.                                           |
+| [`sort`](./sort.md) | Sort inputs lexicographically or numerically.                      |
+| [`split`](./split.md) | Split large inputs into multiple output files based on lines, bytes, or file size. |
 | [`tr`](./tr.md) | Map one set of characters to another set of characters.            |
 | [`uniq`](./uniq.md) | Identify similar lines and filter them from the output.            |
 | [`wc`](./wc.md) | Count the number of lines, words and, characters in input streams. |
