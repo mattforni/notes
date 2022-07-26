@@ -275,10 +275,29 @@ Mangio molte fibre e altrettante vitamine.
 E.g. `poco` -> `pochi`
 ```
 
+## The `Passato Prossimo`
+The `passato prossimo` translates literally to "near past" and is symantically equivalent to either the past simple or the present perfect in English. It is a commonly used form of the past tense that describes a completed action and is constructed using `avere` or `essere` and the *past participle* of the associated verb.
+
+The regular forms of the *past participle* are formed by replacing the infinitive ending, depending on the ending of the verb.
+
+| Verb Ending | Replacement |
+|-------------|-------------|
+| `-are`      | `-ato`      |
+| `-ere`      | `-uto`      |
+| `-ire`      | `-ito`      |
+
+
+
 ## Vocabulario
 ```
 altrettanto - just as (much)
+il biscotto - the cookie
+la focaccia - the focaccia
 molto - very (much), a lot
+oleoso - oily
+il pane - the bread
 poco - (a) little, not much
+sottile - thin
+la torta - the cake
 troppo - too (much)
 ```
