@@ -275,8 +275,8 @@ Mangio molte fibre e altrettante vitamine.
 E.g. `poco` -> `pochi`
 ```
 
-## The `Passato Prossimo`
-The `passato prossimo` translates literally to "near past" and is symantically equivalent to either the past simple or the present perfect in English. It is a commonly used form of the past tense that describes a completed action and is constructed using `avere` or `essere` and the *past participle* of the associated verb.
+## The *Passato Prossimo*
+The *passato prossimo* translates literally to "near past" and is symantically equivalent to either the past simple or the present perfect in English. It is a commonly used form of the past tense that describes a completed action and is constructed using `avere` or `essere` and the *past participle* of the associated verb.
 
 The regular forms of the *past participle* are formed by replacing the infinitive ending, depending on the ending of the verb.
 
@@ -286,18 +286,41 @@ The regular forms of the *past participle* are formed by replacing the infinitiv
 | `-ere`      | `-uto`      |
 | `-ire`      | `-ito`      |
 
+### The *Passato Prossimo* with `Essere`
+There are a few types of verbs that use `essere` to form the *passato prossimo*. They are:
 
+- reflexive verbs (e.g. `scottarsi`, to burn oneself)
+- some verbs indicating movement (e.g. `andare`, to go)
+- some verbs indicating a state (e.g. `restare`, to stay)
+
+```
+Elisa si é scotatta con l'acqua bollente.
+
+Anche Vincenzo é andata alla pasticeria Riccardi.
+
+Siete restati a lungo alle Cinque Terre?
+```
+
+**Note** that when *only* using `essere` to form the *passato prossimo* the participle (i.e. end of the verb) is conjugated to match the noun in gender and number. This is *not* the case when using `avere` to form the *passato prossimo*.
 
 ## Vocabulario
 ```
 altrettanto - just as (much)
+assaggiare - to taste
+avere fame - to be hungry (lit. have hunger)
+avere voglia di qualcosa - I want/feel like something
 il biscotto - the cookie
+comprare - to buy
+condire - to season, dress
 la focaccia - the focaccia
 molto - very (much), a lot
 oleoso - oily
 il pane - the bread
 poco - (a) little, not much
+provare - to try
 sottile - thin
+tornare - to return, come back
 la torta - the cake
 troppo - too (much)
+uscire - to go out
 ```
