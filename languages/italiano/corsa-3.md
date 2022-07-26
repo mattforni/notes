@@ -1,4 +1,4 @@
-# Course 3
+# Corsa 3
 ## Adverbs
 Unlike adjectives, which provide additional information about a noun, adverbs usually modify an action, adjective, or adverb.
 

@@ -1,4 +1,4 @@
-# Course 2
+# Corsa 2
 ## The Demonstrative Determiner or Pronoun
 ### `Questo`
 `Questo` (this) always accompanies a noun and is modified to agree with the noun in both number and gender. When preceding a singular noun that starts with a vowel, `questo` and `questa` can be apostrophized to preserve the flow of the sentence.
