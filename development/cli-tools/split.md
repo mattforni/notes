@@ -1,5 +1,5 @@
 # `split`
-`split` is a command-line tool used to split large inputs into multiple output files based on lines, bytes, or file size. By default, `split` separates input into a separate file every 1000 lines and outputs files with the prefix `x` and a two character alphabet suffix starting with `aa`. 
+`split` is a command-line tool used to split inputs into output files based on lines, bytes, or file size. By default, `split` separates input into a separate file every 1000 lines and outputs files with the prefix `x` and a two character alphabet suffix starting with `aa`. 
 
 ```bash
 # Split every 1000 lines by default
