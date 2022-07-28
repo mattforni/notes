@@ -24,15 +24,52 @@ Le mie guida turistica era piú simpatica che professionale!
 Trovo piú bello camminare che anadre in taxi. 
 ```
 
+The comparative is not just used for expressing differences between things. It can also be used to express equality. For example, to indicate that something is just as famous or expensive as something else, the form `tanto... quanto...` (lit. as... as...) is used. In some cases, `tanto` can also be left out as it is implied.
 
+```
+Gli Uffizi sono tanto conosciuti quanto i Musei Vaticani.
+
+Gli Uffizi sono conosciuti quanto i Musei Vaticani.
+```
+
+The same sentiment can be expressed using `così... come...` (lit. as... as...).
+
+```
+Il tour non era cosí emozionante come mi aspettavo.
+
+É incredible, anche questo biglietto é cosí caro come quello di ieri?!
+```
+
+Some adjectives, such as `buono` (good) and `cattivo` (bad) have an irregular comparative form in addition to the regular one.
+
+```
+Il panino con prosciutto curdo é migliore (piú buono) di quello con il cotto.
+
+Non credo esista un ristorante peggiore (piú cattivo) di questo.
+```
+
+The corresponding adverbs (`bene` and `male`) also have irregular comparative forms.
+
+```
+Con questo caldo é meglio uscire solo la sera.
+
+Peggio di cosí non ci poteva andare!
+```
 
 ## Vocabulario
 ```
 l'Academia di Belle Arti - the Academy of Fine Arts
 la cattedrale - the cathedral
+celebre - famous
 la coinquilina - the room mate
 la culla - the cradle
 la cupola - the dome
+emozionante - exciting
+macellai - butchers
 lentamente - slowly
+incantevole - charming
+preparato - prepared
 il Rinasciamento - the Renaissance
+simpatico - pleasent
+verdurai - greengrocers
 ```
