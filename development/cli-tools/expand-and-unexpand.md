@@ -5,7 +5,7 @@
 The `expand` command is used to convert tabs to spaces and by default it inserts spaces to align text at multiples of `8` columns.
 
 ```bash
-printf 'mat\tmate\tmaterial\na\tab\tabc' | cat -t          
+$ printf 'mat\tmate\tmaterial\na\tab\tabc' | cat -t
 mat^Imate^Imaterial
 a^Iab^Iabc
 
@@ -22,13 +22,13 @@ a       ab      abc
 The `-i` option can be provided to only convert leading tab characters to spaces instead of all tab characters. In this case the first occurrence of a non-whitespace character will terminate the conversion.
 
 ```bash
-printf 'mat\tmate\tmaterial' | gexpand -i | cat -t 
+$ printf 'mat\tmate\tmaterial' | expand -i | cat -t
 mat^Imate^Imaterial%
 
-$ printf '\tmat\tmate\tmaterial' | gexpand -i | cat -t
+$ printf '\tmat\tmate\tmaterial' | expand -i | cat -t
         mat^Imate^
 
-$ printf '\t \tmat\tmate\tmaterial' | gexpand -i | cat -t 
+$ printf '\t \tmat\tmate\tmaterial' | expand -i | cat -t
                 mat^Imate^Imaterial
 ```
 
@@ -56,11 +56,11 @@ Prefixing the last width with a `/` character will cause `expand` to continue to
 
 ```bash
 # Expand to 4, then multiples of 7 (i.e. 7, 14, 21, etc.)
-printf 'mat\tcat\ttat\tbat\tfat\tsat\that\tlat' | gexpand -t 4,/7
+$ printf 'mat\tcat\ttat\tbat\tfat\tsat\that\tlat' | expand -t 4,/7
 mat cat       tat    bat    fat    sat    hat    lat
 
 # Expand to 4, then 4 + multiples of 7 (i.e. 11, 18, 25, etc.)
-printf 'mat\tcat\ttat\tbat\tfat\tsat\that\tlat' | gexpand -t 4,+7
+$ printf 'mat\tcat\ttat\tbat\tfat\tsat\that\tlat' | expand -t 4,+7
 mat cat    tat    bat    fat    sat    hat    lat
 ```
 
