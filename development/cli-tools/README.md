@@ -6,6 +6,7 @@
 | [`csplit`](./csplit.md)                | Split inputs into output files based on line numbers and regular expressions. |
 | [`cut`](./cut.md)                       | Select specific fields and characters from input streams.                              |
 | [`dig`](./dig.md)                       | Query DNS records.                                                                     |
+| [`expand` and `unexpand`](./expand-and-unexpand.md) | Convert tabs to spaces and vice versa. |
 | [`fold` and `fmt`](./fold-and-fmt.md)   | Format output.                                                                         |
 | [`head` and `tail`](./head-and-tail.md) | View the beginning or ending of a file.                                                |
 | [`join`](./join.md)                     | Combine lines from two input streams based on a common field.                          |
