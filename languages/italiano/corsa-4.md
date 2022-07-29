@@ -62,19 +62,26 @@ The term `a ufo` means to do something without paying. It originates from the co
 ## Vocabulario
 ```
 l'Academia di Belle Arti - the Academy of Fine Arts
+il autrice - the author
 la cattedrale - the cathedral
 celebre - famous
 la coinquilina - the room mate
+la copertina - the book cover
 la culla - the cradle
 la cupola - the dome
 emozionante - exciting
 garbare - to adore
-macellai - butchers
-lentamente - slowly
 incantevole - charming
+lentamente - slowly
+macellai - butchers
+noioso - boring
+il premio - the prize
 preparato - prepared
 quasi - almost
+il racconto - the story
+la recensione - the review
 il Rinasciamento - the Renaissance
+scegliere - to choose
 simpatico - pleasent
 verdurai - greengrocers
 ```
