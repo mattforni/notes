@@ -53,6 +53,13 @@ lungo - lunghissimo
 
 It's also possible to use the form `molto (very) + adjective` instead of the absolute superlative. So, `centralissimo` is the same as `molto centrale`.
 
+### Irregular superlatives
+The adjectives `buono` and `cattivo` or `brutto` have irregular forms of their superlatives in addition to the normal forms.
+
+- `Buono` can be expressed as both `buonissimo` or `ottimo`
+- `Cattivo` can be expressed as both `cattivisimo` or `pessimo`
+- `Brutto` can be expressed as both `bruttisimo` or `pessimo`
+
 ## Indirect object pronouns
 To **find out** who likes something you say `A chi?` (To whom?).
 
