@@ -56,6 +56,9 @@ Con questo caldo é meglio uscire solo la sera.
 Peggio di cosí non ci poteva andare!
 ```
 
+## `a ufo`
+The term `a ufo` means to do something without paying. It originates from the construction of the Florence Cathedral, which was built from materials that were *untaxed* and marked as *ad usum Florentinae Operae* or "for the construction of the Florentine church." This was eventually adopted and shortened to `a ufo`.
+
 ## Vocabulario
 ```
 l'Academia di Belle Arti - the Academy of Fine Arts
@@ -65,10 +68,12 @@ la coinquilina - the room mate
 la culla - the cradle
 la cupola - the dome
 emozionante - exciting
+garbare - to adore
 macellai - butchers
 lentamente - slowly
 incantevole - charming
 preparato - prepared
+quasi - almost
 il Rinasciamento - the Renaissance
 simpatico - pleasent
 verdurai - greengrocers
