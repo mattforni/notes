@@ -17,7 +17,7 @@ A public repository containing my notes from various different sources.
 * [React](./development/react/README.md)
 
 ## Languages
-* [Italian](./languages/italiano.md)
+* [Italian](languages/italiano/README.md)
 
 ## Photography
 * [ISO](./photography/iso.md)
