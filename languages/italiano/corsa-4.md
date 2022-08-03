@@ -59,10 +59,30 @@ Peggio di cosí non ci poteva andare!
 ## `a ufo`
 The term `a ufo` means to do something without paying. It originates from the construction of the Florence Cathedral, which was built from materials that were *untaxed* and marked as *ad usum Florentinae Operae* or "for the construction of the Florentine church." This was eventually adopted and shortened to `a ufo`.
 
+## The Relative Superlative
+Unlike the absolute superlative, the relative superlative is used to compare characteristics of people, places, or things against each other. The relative superlative often makes use of the particle `di` to create the comparison.
+
+```
+Senza dubbio sei tu la più corragiosa di noi!
+
+La meno intraprendente di tutti? Sono io!
+```
+
+The relative superlative is constructed by combining the definitive article (il, la, gli, i, le) with `più` or `meno` and an adjective.
+
+```
+Il Giornale del mattino ha la più bella rubrica di cultura.
+
+Il Giornale del mattino ha la rubrica di cultura più bella.
+```
+
+**Note** that the sentence above can be written in two different ways.
+
 ## Vocabulario
 ```
 l'Academia di Belle Arti - the Academy of Fine Arts
 il autrice - the author
+accattivante - captivating
 la cattedrale - the cathedral
 celebre - famous
 la coinquilina - the room mate
@@ -74,14 +94,20 @@ garbare - to adore
 incantevole - charming
 lentamente - slowly
 macellai - butchers
+monotono - monotonous
 noioso - boring
 il premio - the prize
 preparato - prepared
+provare - to try
 quasi - almost
 il racconto - the story
 la recensione - the review
 il Rinasciamento - the Renaissance
+rubrica - column (as in a newspaper column)
 scegliere - to choose
+scontato - predictable
 simpatico - pleasent
+stereotipiato - stereotypical
+il stile - the style
 verdurai - greengrocers
 ```
