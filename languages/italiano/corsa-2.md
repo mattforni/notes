@@ -169,6 +169,7 @@ la cucina - the kitchen
 l'ingresso - the entry, the doorway
 la scrivania - the desk
 il soggiorno - the living room
+spazio - spacious
 la camera da letto - the bedroom
 il bagno - the bathroom
 il bilocale - the two-room apartment
