@@ -40,9 +40,55 @@ Questa è la terza volta che sono a Londra.
 Le Italiane sono le quarte classificate.
 ```
 
+## The Impersonal Pronoun `si`
+The impersonal pronoun `si` is used when talking about what no one in particular and can be used to describe what you/one/they/people in general are doing. It is formed using the *third-person singular* conjugation of the verb.
+
+```
+In treno si parla a basa voce.
+> On a train, you speak in a low voice.
+```
+
+The impersonal form of the *passato prossimo* always uses the verb `essere` and `si` comes before the verb instead of after.
+
+```
+Alla festa si è bevuto molto.
+> At the party, they drank a lot.
+```
+
+`Si` comes before modal verbs (e.g. can, may, must) with `non` preceding `si` in negative sentences.
+
+```
+In treno, si può riposare.
+> On the train, you can relax.
+
+Con la nebbia non si vede niente.
+> With the fog, you don't see anything.
+```
+
+The impersonal form of a reflexive verb (e.g. lavarsi) is formed with `ci si` to avoid doubling the `si`.
+
+```
+Dopo mangiato ci si lava le mani.
+> After eating, you wash your hands.
+
+Dopo il lavoro si va a casa e ci si riposa.
+> After work, you go home and you relax.
+```
+
 ## Vocabulario
 ```
+aprire - to open
+beve il succo di fruta - he/she drinks the fruit juice
+ci si lava le mani - you wash your hands
 il collegamento diretto - the direct connection
+il controllore - the inspector
+la nebbia - the fog
 la prenotazione del posto - the seat reservation
+riposare - to relax
+lo scompartimento - the compartment
+il sedile - the seat
+sporca - dirty
 il treno regional - the regional train
+in treno non si può fumare - he/she cannot smoke on the train
+la valigia - the suitcase
 ```
