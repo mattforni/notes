@@ -82,7 +82,9 @@ beve il succo di fruta - he/she drinks the fruit juice
 ci si lava le mani - you wash your hands
 il collegamento diretto - the direct connection
 il controllore - the inspector
+la fatica - the struggle
 la nebbia - the fog
+pesante - heavy
 la prenotazione del posto - the seat reservation
 riposare - to relax
 lo scompartimento - the compartment
