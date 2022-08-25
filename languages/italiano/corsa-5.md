@@ -75,21 +75,44 @@ Dopo il lavoro si va a casa e ci si riposa.
 > After work, you go home and you relax.
 ```
 
+## `Stare` (to be)
+`Stare` literally means "to be" though it has several usages. In the south of Italy it is often used to express location (e.g. `I miei amici stanno in piazza.`). It is more often used to express physical health (e.g. `Sto meglio, ma non sto ancora benissimo.`). When used with an indirect object (e.g. `mi`, `ti`, etc.) it means that something suits the object well (e.g. `Il vestito ti sta benissimo.`).
+
+| Subject     | Conjugation |
+|-------------|-------------|
+| io          | sto         |
+| tu          | stai        |
+| lui/lei/Lei | sta         |
+| noi         | stiamo      |
+| voi         | state       |
+| loro        | stanno      |
+
 ## Vocabulario
 ```
 aprire - to open
 beve il succo di fruta - he/she drinks the fruit juice
 ci si lava le mani - you wash your hands
+come stai oggi - how are you today?
+devo stare a letto - I have to stay in bed
 il collegamento diretto - the direct connection
 il controllore - the inspector
 la fatica - the struggle
+malata - sick
+il medico - the doctor
 la nebbia - the fog
+le pastiglie - the pills
 pesante - heavy
 la prenotazione del posto - the seat reservation
+la ricetta - the presciption
 riposare - to relax
 lo scompartimento - the compartment
 il sedile - the seat
 sporca - dirty
+stai a casa - stay at home
+stare bene - to feel good
+stare male - to feel bad
+stare meglio - to feel better
+stare peggio - to feel worse
 il treno regional - the regional train
 in treno non si può fumare - he/she cannot smoke on the train
 la valigia - the suitcase
