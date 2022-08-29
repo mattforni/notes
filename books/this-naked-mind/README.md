@@ -77,3 +77,60 @@
 - Alcohol wreaks havoc on the immune system, suppressing both the innate and adaptive systems by disrupting the production of cytokines, which are key in detecting, messaging, and fighting off infection.
 - Alcohol is a known carcinogen and is linked to a significantly increased probability of developing certain cancers when consumed in **any amount**.
 - Early death from alcohol has been linked to the loss of **2,400,000** hours of human life in the United States alone, with alcoholism reducing life expectancy by 10 - 12 years on average.
+
+## 8. Liminal Point: Is Alcohol Liquid Courage
+- **Observation:** alcohol used as liquid courage in film, advertisement, etc.
+- **Assumption:** alcohol does provide courage
+- **Experience:** drinking alcohol and having fear, doubt, and uncertainty subside
+- **Conclusion:** alcohol does provide an extra dose of bravery
+- Present day humanity has removed many of the everyday threats that our ancestors had to contend with. The result is a society in which fear is regarded as weakness, whereas, fear help us consider decisions more wholly and make better choices.
+- Courage is doing what is right in spite of the fear of the ramifications. Alcohol is an anesthetic that numbs the nervous system and consequently the fear pathways in the brain, making it impossible to act courageously.
+- Fear, apprehension, and uncertainty are uncomfortable feelings, but humans have evolved to have these feelings over generations because they are incredibly helpful in decision-making.
+- Illegal drugs kill 327 people per week and prescription drugs kill 442 people per week. **Alcohol kills 1,692.**
+- Bravery and cowardice are concepts that exist in humanity and nowhere else in the animal kingdom. True bravery does exist, but only in overriding fear to pursue what is morally right.
+
+## 9. Oh S#*%! We're Stuck
+- We have been conditioned to drink our entire lives. Whether we are being sold relaxation, sex appeal, or happiness, alcohol is more often than not included in the equation.
+- The belief that advertising is not an influential force is the main reason that it is so effective. Unconscious efforts to influence often have a much larger magnitude than conscious efforts.
+- Humans are not satisfied with merely existing. Unlike other animals we search for **meaning** in our existence which often leads to the creation of a void and an uncomfortable tension. This phenomenon is often referred to as *"the wound of existence."*
+- Restlessness is merely part of existence, but many cannot bear the feeling and try to find a way to eliminate the discomfort of being idle. The nature of humans is to take the good and immediately bake it into our baseline. In general, **the more consumption the greater the desire for more.**
+- Existential psychotherapist Irvin D. Yalom describes the humans "ultimate concerns" as death, isolation (loneliness), freedom, and meaning. These four concerns shape our deepest and most fundamental needs.
+- "Alcohol advertisements sell an end to **loneliness**, claiming that drinking provides friendship and romance. They appeal to your need for **freedom** by saying drinking will make you unique, brave, bold, or courageous. They promise **fulfillment, satisfaction, and happiness**."
+- In reality, alcohol is a foul tasting, addictive poison that reinforces its own need and wreaks havoc on the human body, literally sapping life force with every drop.
+- Marketers sell the exact opposite. They sell relief from the human  condition, the wound of existence. They promise happiness, romantic relationships, and relaxation. In reality, alcohol brings pain, dysfunctional relationships, and stress.
+- The advertising does not end with commercials and billboards. It is reinforced with each person who drinks and by a society that not only encourages drinking alcohol, but questions those that opt to not partake in the destructive pastime.
+
+## 10. Liminal Point: Drinking Helps Me Loosen Up and Have Better Sex
+- **Observation:** people who are normally reserved become rather boisterous and outgoing after a few drinks.
+- **Assumption:** drinking alcohol is vital to "loosening up."
+- **Experience:** inhibitions fading after drinking.
+- **Conclusion:** drinking does remove inhibitions and loosens people up.
+- In reality, alcohol merely removes inhibitions, which are a vital component in educated and effective decision-making. Inhibitions protect humans from both physical and psychological damage in most cases. By removing inhibitions we are effectively rendering ourselves vulnerable.
+- In general, society regards introversion and inhibitions negatively, making it unpopular to live a life guided by our natural inhibitions.
+
+## 11. A Quest for Sobriety
+- *"Be patient with yourself. Self-growth is tender; it's holy ground. There is no greater investment." - Stephen Covey*
+- The belief that quitting drinking alcohol is difficult reinforces the thought that alcohol holds power over us. The more thought dedicated to the difficulty, the harder it becomes to abstain.
+- Rats, which are very similar to humans, will **not voluntarily** consume alcohol. They will only partake **after** being force-fed alcohol and developing a physical dependency.
+- Similar to how believing advertising does not have an effect on us increases its efficacy, the fact that alcohol tastes foul increases our susceptibility to becoming addicted since we believe it would be impossible to become addicted to something that tastes so bad.
+- The rest of the animal kingdom will quickly eschew any food or drink that does not appeal to their tastes. Humans are the only animal that will ignore their instincts in favor of their intellect.
+- Abstaining from alcohol can be a very confronting and unpleasant thought for anyone who thinks that their life will never be as enjoyable without alcohol. The conscious and unconscious mind must confront and reject this thought for lasting and transformational change.
+
+## 12. Liminal Point: I Drink to Relieve Stress and Anxiety
+- **Observation:** people say they need a drink after a long day or a challenging experience.
+- **Experience:** I have poured a drink to relax and unwind from a long day, even using a drink as a mental signal to mark the point in the day after which relaxation is acceptable.
+- **Assumption:** drinking does create relaxation and relieves the mental burdens and anxieties of the day.
+- **Conclusion:** alcohol is a necessary component of relaxation and stress relief.
+- Relaxation can be considered having **nothing** that causes any worry or annoyance either physically or mentally.
+- Alcohol may temporarily dull the awareness or things can are causing worry or annoyance, but it **does nothing** to remedy them.
+- "Alcohol erases a bit of you every time you drink it. It can even erase entire nights when you are on a binge. Alcohol does not relieve stress; it erases your senses and your ability to think. Alcohol ultimately erases your self."
+- Alcohol does not lead to real relaxation. Rather, it slows down brain function by affecting two neurotransmitters: glutamate and GABA. Glutamate is an *excitatory* neurotransmitter that increases brain activity and energy levels, the production and function of which is suppressed by alcohol. GABA is an inhibitory neurotransmitter, the production of which is increased by alcohol.
+- Alcohol also triggers the compensatory systems in the body and mind, which seek to restore homeostasis by aggressively regulating the pleasurable effects of alcohol, namely dopamine.
+
+## 13. The Mystery of Spontaneous Sobriety
+- "Spontaneous sobriety" is the term used to refer to recovery from alcohol dependence without any formal treatment.
+- The key to spontaneous sobriety is rectifying the cognitive dissonance created by wanting to quit drinking and the belief that life will never be quite as enjoyable without alcohol.
+- People that recover through spontaneous sobriety have been proven to be more successful in maintaining a healthy relationship with alcohol than those who participate in programs. They appear to be more at peace with the decision.
+- Many people have a conscious or unconscious belief that cutting off or limiting alcohol intake is a legitimate sacrifice and this creates a conflict with their desire to remove alcohol as an influence in their life.
+- The conflict is physical in addition to mental when there is a dependency on alcohol, making the dissonance all the more powerful.
+- Trying to quit drinking with sheer willpower is an incredibly challenging feat, especially since willpower is a finite resource. The most successful way to quit drinking is to first and foremost, change both your conscious and unconscious mind.
