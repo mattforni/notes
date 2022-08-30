@@ -134,3 +134,45 @@
 - Many people have a conscious or unconscious belief that cutting off or limiting alcohol intake is a legitimate sacrifice and this creates a conflict with their desire to remove alcohol as an influence in their life.
 - The conflict is physical in addition to mental when there is a dependency on alcohol, making the dissonance all the more powerful.
 - Trying to quit drinking with sheer willpower is an incredibly challenging feat, especially since willpower is a finite resource. The most successful way to quit drinking is to first and foremost, change both your conscious and unconscious mind.
+
+## 14. Liminal Point: I Enjoy Drinking; It Makes Me Happy
+- **Observation:** people "enjoying" alcohol and imbibing freely and frequently, subscribing to the advertisements that promise relationship development and overall enjoyment.
+- **Experience:** is that alcohol has been involved in many of my fondest memories and therefore must be related to bringing joy.
+- **Assumption:** alcohol really does bring enjoyment and happiness to the lives of many, which contains an unspoken assumption that **not drinking** will bring unhappiness.
+- **Conclusion:** alcohol oes in fact bring enjoyment and happiness.
+- In reality, alcohol causes much of the unhappiness in our society. Not just to those that imbibe the alcohol, but also to those around them.
+- Alcohol is both water and fat soluble, which means that it can be directly absorbed through the stomach lining and can easily pass between organs, including passing effortlessly through the blood-brain barrier.
+- The rush from drinking comes on *quickly*, but dissipates equally quickly. The body immediately combats the rush of glucose (the immediate buzz) by releasing insulin, which causes blood sugar to dip, often creating an unpleasant feeling of emptiness and irritability.
+- If alcohol was actually the source of happiness it would follow that each drink would lead to a sense of euphoria. In most cases this is not true, especially given the physiological impact of deadening the sense that alcohol has on the mind and body.
+- The argument is often made that there are plenty of people with a glass in their hand that are laughing and seemingly having a good time. More often than not that is a result of the situation, the friends and conversation, and not the drink they are holding.
+- Alcohol is such a hugely prevalent part of our society that it is more often present in social situations than it is absent, and thus the linkage between alcohol and enjoyable social situations is created and repeatedly reinforced.
+
+## 15. Defining Addiction: Part 1
+- Substance use disorders are evaluated based on three categories: **abuse**, **dependence**, and **craving**.
+- **Abuse** is determined as substantial negative impacts to the addicted. These impacts can be health related, relational, or otherwise.
+- **Dependence** occurs when the addicted is dependent either psychologically or physically or both on the drug. In these cases a tolerance is formed and withdrawal is experienced when the drug is not present. In other words the body and brain have changed to compensate for the chronic presence of the drug.
+- **Craving** is the manifestation of extremely strong, albeit illogical, desire for the drug often in spite of conscious thought and willpower.
+- More simply put, addiction is repeatedly engaging in something that you do not **want** to be doing because it is difficult to act in accordance with your conscious mind.
+- Humans are an adaptive, and therefore addictive, species. Learning happens alongside addiction in the human brain. In other words, we learn to be addicted.
+- The presence of a drug creates the continual need for it since as it leaves the system goes through withdrawal, a very unpleasant experience in which the brain and body are flushing the body of the toxins and adapting back to state prior to the introduction of the foreign drug. This often leaves the person with various feelings of emptiness, anxiety, and vulnerability.
+- Most are happier with a drink not because the drink makes them happy, but rather because it **alleviates the unpleasantness of withdrawal.**
+
+## 16. Liminal Point: Is Alcohol Vital to Social Life?
+- **Observation:** alcohol present at every social situation with everyone partaking in the libations as a means of enjoying themselves.
+- **Assumption:** alcohol is a necessity at all social events.
+- **Experience:** alcohol serving as the focal point around which most social situations revolve.
+- **Conclusion:** it's not a party unless the booze is flowing freely.
+- Social activities have actually been shown to prevent addiction in rats who avoid drug-laced water when in a cage with other rats. However, when rats are isolated they showed a proclivity toward consuming the drug-laced water.
+- The opposite is also true in many cases in that when the drug becomes more important than social interactions the social aspects of life tend to fade into the background and isolation takes place.
+- Alcohol has been shown to result in a homogenization of life that renders all activities the same: drink, hangover, and repeat. The actual activity and the people present take on much less meaning in comparison with the drug.
+- The brain plays a large role in affirming that alcohol is a necessity to enjoy a social activity. Merely by believing that alcohol is necessary, it becomes necessary in the mind's eye. Luckily, the converse is true as well.
+
+## 17. Defining Addiction: Part 2
+- Humans only crave things they believe to be beneficial. Addicts have merely developed the false belief that their drug of choice is beneficial to them.
+- The brain attempts to maintain homeostasis in the body while drinking by releasing a chemical called **dynorphin**. This chemical manifests as "tolerance" and is the brain trying to mediate the effects of the alcohol. Unfortunately, the chronic release of dynorphin makes it much more challenging to enjoy other activities in life.
+- Eventually this can lead to a state in which homeostasis can only be achieved with the presence of the drug, and thus the addicted is hooked. In other words, the drug artificially creates a low in the mood of the addicted, which can only be relieved by more of the drug. Or so the belief often goes.
+- **Dopamine** also plays a large role in the development of addiction since alcohol and other addictive drugs trigger the release of dopamine. Dopamine does not have any pleasurable aspects unto itself, but rather controls the impulse to **seek rewards**. In other words, it is a key component in craving.
+- Dopamine rich rats have been show to more aggressively seek rewards, but do **not** experience a greater level of pleasure than their dopamine poor peers.
+- The ventral tegmental area (VTA) of the brain is primarily responsible for the release of dopamine and is one of three parts of reward processing: the VTA, nucleus accumbens, and prefrontal cortex. Liking and enjoyment occur in the nucleus accumbens.
+- Watching a movie or having a good meal will stimulate the nucleus accumbens, but not nearly as directly or aggressively as drugs. Since they provide stimulus outside the normal ranges, the brain responds by producing CREB, which allows for the production of dynorphin. The dynorphin is a natural painkiller that inhibits the stimulation of the nucleus accumbens, leading to a return to homeostasis, but also creating tolerance and decreasing sensitivity to activities that are normally rewarding.
+- The prefrontal cortex, which is responsible for decision-making, self-control, and the more reptilian functions, also changes with chronic alcohol exposure. Alcohol damages and thins the neuoral density in the prefrontal cortex, leading to diminished capacity to make good decisions.
