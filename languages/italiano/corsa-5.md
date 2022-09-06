@@ -90,6 +90,7 @@ Dopo il lavoro si va a casa e ci si riposa.
 ## Vocabulario
 ```
 aprire - to open
+azzeccata - apt
 beve il succo di fruta - he/she drinks the fruit juice
 ci si lava le mani - you wash your hands
 come stai oggi - how are you today?

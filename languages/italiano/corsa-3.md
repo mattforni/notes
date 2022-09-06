@@ -124,8 +124,50 @@ Siete restati a lungo alle Cinque Terre?
 
 **Note** that when *only* using `essere` to form the *passato prossimo* the participle (i.e. end of the verb) is conjugated to match the noun in gender and number. This is *not* the case when using `avere` to form the *passato prossimo*.
 
+### The Present Continuous
+Describing an ongoing action is done using the verb `stare` in the present tense along with the gerund (i.e. verb form ending in `-ing` in English) of the verb being performed.
+
+#### Forming Gerunds
+Replace the `-are` verb endings with `-ando`.
+
+```
+Sto andando al cinema.
+```
+
+Replace the `-ere` and `-ire` verb endings with `-endo`.
+
+```
+Sto scrivendo un libro.
+
+Mi sto divertendo molto.
+```
+
+Keep in mind that the reflexive pronouns (e.g. `mi`, `ti`, etc.) comes **before** `stare` instead of immediately preceding the gerund. Negation of the verb (i.e. `non` is being used) **always** comes first.
+
+```
+Non ci stiamo divertendo.
+```
+
+#### Irregular Gerund Forms
+Some verbs have irregular gerund forms that must be memorized.
+
+| Verb   | Gerund    |
+|--------|-----------|
+| `bere` | `bevendo` |
+| `dire` | `dicendo` |
+| `fare` | `facendo` |
+
+```
+Livia sta bevundo il succo di frutta.
+Loro non stanno dicendo la verità.
+Stiamo facendo cena insieme.
+```
+
 ## Vocabulario
 ```
+abbastanza - enough
+l'agente - the agent
+allora - so
 altrettanto - just as (much)
 assaggiare - to taste
 avere fame - to be hungry (lit. have hunger)
@@ -135,11 +177,19 @@ comprare - to buy
 condire - to season, dress
 la focaccia - the focaccia
 molto - very (much), a lot
+non sto dormendo molto - I am not sleeping much
 oleoso - oily
 il pane - the bread
 poco - (a) little, not much
 provare - to try
+quindi - so
+la regia - la direction (as in a play or movie)
+la scenografia - the set design
+sta telefonando a tutto i teatri - she is calling all of the theatres
 sottile - thin
+stiamo lavorando insieme - we are working together
+sto scrivendo - I am writing
+il testo - the text
 tornare - to return, come back
 la torta - the cake
 troppo - too (much)
