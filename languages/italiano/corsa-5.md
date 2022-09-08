@@ -87,22 +87,67 @@ Dopo il lavoro si va a casa e ci si riposa.
 | voi         | state       |
 | loro        | stanno      |
 
+### The Present Continuous
+Describing an ongoing action is done using the verb `stare` in the present tense along with the gerund (i.e. verb form ending in `-ing` in English) of the verb being performed.
+
+#### Forming Gerunds
+Replace the `-are` verb endings with `-ando`.
+
+```
+Sto andando al cinema.
+```
+
+Replace the `-ere` and `-ire` verb endings with `-endo`.
+
+```
+Sto scrivendo un libro.
+
+Mi sto divertendo molto.
+```
+
+Keep in mind that the reflexive pronouns (e.g. `mi`, `ti`, etc.) comes **before** `stare` instead of immediately preceding the gerund. Negation of the verb (i.e. `non` is being used) **always** comes first.
+
+```
+Non ci stiamo divertendo.
+```
+
+#### Irregular Gerund Forms
+Some verbs have irregular gerund forms that must be memorized.
+
+| Verb   | Gerund    |
+|--------|-----------|
+| `bere` | `bevendo` |
+| `dire` | `dicendo` |
+| `fare` | `facendo` |
+
+```
+Livia sta bevundo il succo di frutta.
+Loro non stanno dicendo la verità.
+Stiamo facendo cena insieme.
+```
+
 ## Vocabulario
 ```
+ancora - still
 aprire - to open
 azzeccata - apt
 beve il succo di fruta - he/she drinks the fruit juice
 ci si lava le mani - you wash your hands
 come stai oggi - how are you today?
 devo stare a letto - I have to stay in bed
+dimenticare - to forget
+disegnire - to draw
 il collegamento diretto - the direct connection
 il controllore - the inspector
 la fatica - the struggle
+lasciare - to leave
 malata - sick
 il medico - the doctor
 la nebbia - the fog
+quando - when
 le pastiglie - the pills
 pesante - heavy
+pisolino - nap
 la prenotazione del posto - the seat reservation
 la ricetta - the presciption
 riposare - to relax
