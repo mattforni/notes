@@ -126,15 +126,45 @@ Loro non stanno dicendo la verità.
 Stiamo facendo cena insieme.
 ```
 
+## `Dovere` (have to, must)
+The verb `dovere` means "to have to", or in some cases "ought to" or "should." It can also mean "owe."
+
+```
+Mi devi aiutare.
+You have to help me.
+
+Al confine si deve mostrare il documento.
+You must show your documentation at the border.
+
+Mi devi ancora quei soldi!
+You already own me this money!
+```
+
+| Subject     | Conjugation |
+|-------------|-------------|
+| io          | devo        |
+| tu          | devi        |
+| lui/lei/Lei | deve        |
+| noi         | dobbiamo    |
+| voi         | dovete      |
+| loro        | devono      |
+
 ## Vocabulario
 ```
 ancora - still
 aprire - to open
 azzeccata - apt
 beve il succo di fruta - he/she drinks the fruit juice
+centomila - one hundred thousand
 ci si lava le mani - you wash your hands
 come stai oggi - how are you today?
+i contatti - the contacts (as in telephone)
 devo stare a letto - I have to stay in bed
+diecimila - ten thousand
+duemila - two thousand
+due milione - two million
+mi devi aiutare - You have to help me
+mi devo vergognare - I should be embarassed
 dimenticare - to forget
 disegnire - to draw
 il collegamento diretto - the direct connection
@@ -143,12 +173,17 @@ la fatica - the struggle
 lasciare - to leave
 malata - sick
 il medico - the doctor
+mille - one thousand
+un milione - one million
 la nebbia - the fog
 quando - when
 le pastiglie - the pills
+perché devi essere così esagerato - why do you have to exaggerate?
 pesante - heavy
 pisolino - nap
+il profilo - the profile
 la prenotazione del posto - the seat reservation
+il problema - the problem
 la ricetta - the presciption
 riposare - to relax
 lo scompartimento - the compartment
@@ -162,4 +197,5 @@ stare peggio - to feel worse
 il treno regional - the regional train
 in treno non si può fumare - he/she cannot smoke on the train
 la valigia - the suitcase
+ventimila - twenty thousand
 ```
