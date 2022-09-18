@@ -149,9 +149,55 @@ You already own me this money!
 | voi         | dovete      |
 | loro        | devono      |
 
+## Regular Verbs Ending in `-care` and `-gare`
+Verbs that end in `-care` and `-gare` take slightly different conjugations in the second-person singular (i.e. you) and the first-person plural (i.e. we). In those forms an `h` is added before the verb ending.
+
+```
+Giochi con me?
+Will you play with me?
+
+Ti colleghi alla chat?
+Are you going to log on to chat?
+
+Io e Anna cerchiamo casa.
+Anna and I are looking for a house.
+
+Paghiamo subito!
+We will pay right now!
+```
+
+## `Pagare` (to pay)
+| Subject     | Conjugation |
+|-------------|-------------|
+| io          | pago        |
+| tu          | paghi       |
+| lui/lei/Lei | paga        |
+| noi         | paghiamo    |
+| voi         | pagate      |
+| loro        | pagano      |
+
+## Verbs with `a`
+Verbs like `regolare` (to give a gift), `dare` (to give) and `dire` (to say) are followed by the preposition `a` when there is a connection to the object.
+
+```
+Veramente regali a tuo fratello un mazzo di fiori?
+Are you really giving your brother a bouquet of flowers?
+
+Telefono a Chiara.
+Call Chiara.
+```
+
+The `a` can be omitted when the verb is used with an *unstressed indirect object pronoun* where the pronoun comes before the conjugated verb.
+
+```
+Veramente gli regali un mazzo di fiori?
+Are you really giving him a bouquet of flowers?
+```
+
 ## Vocabulario
 ```
 ancora - still
+anello - ring
 aprire - to open
 azzeccata - apt
 beve il succo di fruta - he/she drinks the fruit juice
@@ -159,6 +205,7 @@ centomila - one hundred thousand
 ci si lava le mani - you wash your hands
 come stai oggi - how are you today?
 i contatti - the contacts (as in telephone)
+mi dai un suggerimento? - Can you give me some advice?
 devo stare a letto - I have to stay in bed
 diecimila - ten thousand
 duemila - two thousand
@@ -168,7 +215,9 @@ mi devo vergognare - I should be embarassed
 dimenticare - to forget
 disegnire - to draw
 il collegamento diretto - the direct connection
+ti colleghi - you connect
 il controllore - the inspector
+Ti dico cosa faccio - I am telling you what I am doing
 la fatica - the struggle
 lasciare - to leave
 malata - sick
@@ -184,6 +233,7 @@ pisolino - nap
 il profilo - the profile
 la prenotazione del posto - the seat reservation
 il problema - the problem
+Le regaliamo un mazzo di fiori - We give her a bouquet of flowers
 la ricetta - the presciption
 riposare - to relax
 lo scompartimento - the compartment
@@ -194,6 +244,7 @@ stare bene - to feel good
 stare male - to feel bad
 stare meglio - to feel better
 stare peggio - to feel worse
+ti pagano? - do they pay you?
 il treno regional - the regional train
 in treno non si può fumare - he/she cannot smoke on the train
 la valigia - the suitcase
