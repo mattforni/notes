@@ -2,8 +2,10 @@
 A public repository containing my notes from various different sources.
 
 ## Books
-* [The DynamoDB Book](./books/the-dynamodb-book/README.md)
 * [Dopamine Nation](./books/dopamine-nation/README.md)
+* [The DynamoDB Book](./books/the-dynamodb-book/README.md)
+* [This Naked Mind](./books/this-naked-mind/README.md)
+
 
 ## Courses
 ### coursera
