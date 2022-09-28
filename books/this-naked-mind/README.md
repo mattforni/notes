@@ -175,4 +175,61 @@
 - Dopamine rich rats have been show to more aggressively seek rewards, but do **not** experience a greater level of pleasure than their dopamine poor peers.
 - The ventral tegmental area (VTA) of the brain is primarily responsible for the release of dopamine and is one of three parts of reward processing: the VTA, nucleus accumbens, and prefrontal cortex. Liking and enjoyment occur in the nucleus accumbens.
 - Watching a movie or having a good meal will stimulate the nucleus accumbens, but not nearly as directly or aggressively as drugs. Since they provide stimulus outside the normal ranges, the brain responds by producing CREB, which allows for the production of dynorphin. The dynorphin is a natural painkiller that inhibits the stimulation of the nucleus accumbens, leading to a return to homeostasis, but also creating tolerance and decreasing sensitivity to activities that are normally rewarding.
-- The prefrontal cortex, which is responsible for decision-making, self-control, and the more reptilian functions, also changes with chronic alcohol exposure. Alcohol damages and thins the neuoral density in the prefrontal cortex, leading to diminished capacity to make good decisions.
+- The prefrontal cortex, which is responsible for decision-making, self-control, and the more reptilian functions, also changes with chronic alcohol exposure. Alcohol damages and thins the neuronal density in the prefrontal cortex, leading to diminished capacity to make good decisions.
+
+# 18. Liminal Point: It's Cultural. I Need to Drink to Fit In.
+- **Observation:** Everyone drinking all the time, at every occasion.
+- **Experience:** A constant deluge of conversation about alcohol, what sort of alcohol will be provided, "pre-gaming" events, etc.
+- **Assumption:** That alcohol is so intertwined in daily life that it will be impossible to exist in this world without giving in and drinking alcohol.
+- **Conclusion:** Alcohol is necessary to exist and find community in the world we live in. Without a proclivity toward drinking you will forever be alone.
+- In reality, alcohol addiction is so insidious that we spend conscious time and effort hiding how much we drink from everyone, including ourselves, with those defending their reasons for drinking the loudest being the furthers along the path to dependence.
+- People that do not drink are often thought of as "boring" by those who do drink. The reality is that fun people are fun, and cool people are cool regardless of whether they drink or not.
+- Disproving this belief requires experience, plain and simple. The unconscious mind needs to believe that you are the same person, alcohol or not, and that requires experimentation and proof.
+- Temperance is **actually** an attractive quality in a partner. They often admire the character and self-discipline that are required to go against the grain of society.
+
+# 19. The Descent: Why Some Descend Faster Than Others
+- Despite years of research and several studies scientists have been wholly unable to link addiction to any aspect or configuration of personality. The approach has largely been abandoned, implying that addiction is not a personality trait, but rather succumbing to the addictive nature of a substance or behavior.
+- All addictive substances and behaviors create systemic deficiencies in brain chemistry that fuel continued use and abuse. When in these deficient states it is easier for our desires (to partake and to **not** partake) to be at war with each other and for the former to win out.
+- Given the majority of Americans drink alcohol, it follows that we have a society that is addicted, to varying degrees, and which protects itself from that fact "by portraying alcoholism as a personality defect."
+- The same traits that often are associated with addiction can also be strongly linked to being successful (e.g. commitment, decisiveness, strong-willed, etc.) meaning it is not the traits themselves, but how and what they are applied.
+- That is not to say that certain personality traits can be linked to problematic alcohol use an abuse, though most of these traits, while perceived as negative in the lens of addiction, are neutral at best (e.g. extroversion, openness, etc.).
+- In short, personality traits are neutral in general. They can have positive and negative impacts on an individual, which may manifest in different manners depending on the activity in question.
+- Alcohol dependence can be explained by Occam's Razor, in that alcohol is an addictive substance and therefore develops a dependence in those who regularly imbibe it. This is a much simpler explanation than the convoluted theories around personality, physical, and mental defects.
+- Alcohol dependence is such a soul crushing phenomenon that contemplation of suicide is 120x more likely among adult alcoholics, with alcohol being involved in **1/3 of all suicides in the United States**!
+
+# 20. Living a Naked Life in our Society
+- *"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself" - Rumi*
+- If truly examined it is likely that there are activities and people that merely serve as excuses to partake in alcohol. If the alcohol was not present they would seem to be a waste of time.
+- Alcohol dulls the sense of taste, rendering the true pleasure of eating, far less enjoyable. What a travesty!
+- Alcohol is and has been a known carcinogen since 1988. This means that each time alcohol is consumed it is actively doing the body incredible amounts of harm.
+- There is an insane amount of money that goes into researching how to effectively market alcohol given the taste and negative health impacts. Everything from elevation and lighting of the bottles to proximity to the restrooms. **No one** is immune to the deluge of pro-alcohol marketing that is thrown at them on a daily basis. Instead, the lies must be consciously recognized and rebuffed.
+- Moderation with any addictive is challenging due to the effects on the brain chemistry, specifically **dopamine**. That is not to say that it is impossible to drink alcohol in moderation, but it will likely consume more willpower and decisiveness than most care to invest, often with various forms of self-binding employed to keep the descent at bay.
+- The **incentive-sensitization theory of addiction** explains that repeated use of addictive drugs makes the brain hyper-sensitive to that specific drug, an effect that is long-lasting, and may never return to "normal" states.
+- Conscious choice plays a large role in determining how alcohol, and everything else really, is perceived. If you believe that depriving yourself of alcohol will be terrible, it will be. Conversely, if you choose to see alcohol as a toxin that brings unhappiness and destruction, the desire will diminish. 
+
+# 21. This Naked Mind
+- The most impactful part of drug addiction is the impact to self-respect, without which everything else starts to deteriorate.
+- Alcohol is easily the most destructive drug in our society, accounting for 4x the number of death caused by prescription **and** illegal drug overdoses. And that number is increasing **every year**.
+- It is important to actively make a decision to remove alcohol as an influence, primarily because the single decision removes the necessity to make many subsequent decisions and alleviates the burden on willpower. Secondly, by making this decision once and for all, freedom is instantaneously acquired versus postponing success to the grave.
+- In a comparative risk assessment many drugs were evaluated on their margin of exposure (MOE), which is a ratio between intake and toxicology. A MOE of <10 is considered "high-risk", a MOE of 10 - 100 is considered "risk", and anything >100 is not considered. Cocaine, alcohol, nicotine, and heroin were the only drugs to fall into the "high-risk" category.
+- The brain has a "bottoms-up" methodology to making decisions in which the unconscious parts of the brain first weigh the rewards and make a decision, only choosing to share the outcome with your conscious brain after this process is complete, if at all.
+- The unconscious is controls desires and emotions, and is where beliefs, habits, and behaviors are formed. When a physical dependence is developed these beliefs, habits, and behaviors inhibit the nucleus accumbens from receiving enjoyment or pleasure from previously enjoyed activities. The unconscious conditioning **must** first be reversed to begin enjoying these activities again.
+
+# 22. The Secret to Happily and Easily Drinking Less
+- The brain does not simply forget previous experiences with alcohol. Dopamine is the learning molecule and through it the brain has learned that it can access "pleasure" through alcohol, and why have a little when you can have a lot. The brain picks up exactly where it left off despite the time that has elapsed since the last drink.
+- From a willpower perspective, a single decision to eliminate alcohol from your life is much more easily executed than choosing to decline each and every drink or drinking opportunity ad infinitum.
+- It should be made abundantly clear that you **cannot** become addicted to alcohol if you do not drink, and that you **will** become addicted to alcohol if you do drink enough, no matter who you are.
+- The first step to removing alcohol as an influence is recognizing and accepting that you have become emotionally or physically dependent on alcohol. An unacknowledged issue cannot be iterated upon.
+- The first few hours, day, and/or weeks of removing alcohol from your life may be marked with painful withdrawal symptoms. This is the alcohol leaving your body and each one of these symptoms was **caused** by the alcohol.
+- The second step is acknowledging that alcohol is a toxin that has been intricately marketed to diminish its true nature and mask the fact that it has no beneficial effects for any human.
+- Alcohol steals more than **2.4 million hours of life** in the United States each year!
+- *"Every time you wake up after drinking, you are physically, mentally, emotionally, socially, and financially worse off than if you had not taken the drug in the first place." - Jason Vale*
+- Not drinking alcohol adds hours to your life and puts dollars back in your pocket. Use them wisely.
+
+# 23. The Journey: "Relapse"
+- *"Your life will be so much better when alcohol is a small and irrelevant part of it." - Annie Grace*
+
+# 24. Pay it Forward
+- *"Don't spend your precious time asking 'Why isn't the world a better place?' The question to ask is 'How can I make it better?' To that there is an answer." - Leo F. Buscaglia
+- It is our responsibility as humans to take care of each other and our planet. But first we must take care of ourselves, otherwise we are unable to put our efforts toward the greater good.
+- *"Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like" - Lao Tzu*
