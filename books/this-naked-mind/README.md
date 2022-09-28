@@ -216,5 +216,20 @@
 - The unconscious is controls desires and emotions, and is where beliefs, habits, and behaviors are formed. When a physical dependence is developed these beliefs, habits, and behaviors inhibit the nucleus accumbens from receiving enjoyment or pleasure from previously enjoyed activities. The unconscious conditioning **must** first be reversed to begin enjoying these activities again.
 
 # 22. The Secret to Happily and Easily Drinking Less
+- The brain does not simply forget previous experiences with alcohol. Dopamine is the learning molecule and through it the brain has learned that it can access "pleasure" through alcohol, and why have a little when you can have a lot. The brain picks up exactly where it left off despite the time that has elapsed since the last drink.
+- From a willpower perspective, a single decision to eliminate alcohol from your life is much more easily executed than choosing to decline each and every drink or drinking opportunity ad infinitum.
+- It should be made abundantly clear that you **cannot** become addicted to alcohol if you do not drink, and that you **will** become addicted to alcohol if you do drink enough, no matter who you are.
+- The first step to removing alcohol as an influence is recognizing and accepting that you have become emotionally or physically dependent on alcohol. An unacknowledged issue cannot be iterated upon.
+- The first few hours, day, and/or weeks of removing alcohol from your life may be marked with painful withdrawal symptoms. This is the alcohol leaving your body and each one of these symptoms was **caused** by the alcohol.
+- The second step is acknowledging that alcohol is a toxin that has been intricately marketed to diminish its true nature and mask the fact that it has no beneficial effects for any human.
+- Alcohol steals more than **2.4 million hours of life** in the United States each year!
+- *"Every time you wake up after drinking, you are physically, mentally, emotionally, socially, and financially worse off than if you had not taken the drug in the first place." - Jason Vale*
+- Not drinking alcohol adds hours to your life and puts dollars back in your pocket. Use them wisely.
+
 # 23. The Journey: "Relapse"
+- *"Your life will be so much better when alcohol is a small and irrelevant part of it." - Annie Grace*
+
 # 24. Pay it Forward
+- *"Don't spend your precious time asking 'Why isn't the world a better place?' The question to ask is 'How can I make it better?' To that there is an answer." - Leo F. Buscaglia
+- It is our responsibility as humans to take care of each other and our planet. But first we must take care of ourselves, otherwise we are unable to put our efforts toward the greater good.
+- *"Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like" - Lao Tzu*
