@@ -3,9 +3,9 @@ A public repository containing my notes from various different sources.
 
 ## Books
 * [Dopamine Nation](./books/dopamine-nation/README.md)
+* [Regeneration](./books/regeneration/README.md)
 * [The DynamoDB Book](./books/the-dynamodb-book/README.md)
 * [This Naked Mind](./books/this-naked-mind/README.md)
-
 
 ## Courses
 ### coursera
