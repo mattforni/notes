@@ -5,3 +5,6 @@ SREs are ultimately responsible for reliably operating services for customers, i
 ![Reliability Pyramid](../images/reliability-pyramid.png)
 
 - [Monitoring](./10-practical-alerting.md)
+- [Being On-Call](./11-being-on-call.md)
+- [Effective Troubleshooting](./12-effective-troubleshooting.md)
+- 
